@@ -1,5 +1,5 @@
-## Program Hakkında
-2022 yılı 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması’ndaki "Go Oyunundan Günlük Hayat Problemleri ve Kriptoloji" projesine ait programın kodları
+## Genel Bilgi
+2022 yılı 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması’ndaki "Go Oyunundan Günlük Hayat Problemleri ve Kriptoloji" projesine ait şifreleme ve şifre çözme programı.
 	
 ## Kullanım
 C++11 versiyonunda yazılan kodu çalıştırmak için aşağıdaki derleme komutunu kullanabilirsiniz:
