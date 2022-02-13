@@ -2,7 +2,7 @@
 2022 yılı 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması’ndaki "Go Oyunundan Günlük Hayat Problemleri ve Kriptoloji" projesine ait programın kodları
 	
 ## Setup
-Çalıştırmak için kullanmanız gereken 
+C++11 versiyonunda yazılan kodu çalıştırmak için aşağıdaki derleme komutunu kullanabilirsiniz:
 ```
 $ g++ main.cpp board.cpp charset.cpp coordsys.cpp -std=c++11 -o [OUT].exe
 ```
