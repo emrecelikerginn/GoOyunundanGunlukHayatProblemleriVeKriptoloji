@@ -1,5 +1,5 @@
 ## Genel Bilgi
-2022 yılı 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması’ndaki "Go Oyunundan Günlük Hayat Problemleri ve Kriptoloji" projesine ait şifreleme, şifre çözme ve taş yerleştirilebecek konumları bulma programı
+2022 yılı 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması’ndaki "Go Oyunundan Günlük Hayat Problemleri ve Kriptoloji" projesine ait şifreleme, şifre çözme ve taş yerleştirilebecek konumları bulma programıdır.
 	
 ## Kullanım
 C++11 versiyonunda yazılan kodu çalıştırmak için aşağıdaki derleme komutunu kullanabilirsiniz:
