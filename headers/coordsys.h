@@ -1,8 +1,6 @@
 #ifndef COORDSYS_H_INCLUDED
 #define COORDSYS_H_INCLUDED
 
-using namespace std;
-
 class CoordinateSystem
 {
     private:
